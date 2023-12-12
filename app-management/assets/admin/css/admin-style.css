@@ -1,0 +1,29 @@
+.icon-image{
+    height: 40px;
+    width: 40px;
+}
+.fire-base-image{
+    height: 40px;
+    width: 40px;
+}
+.download-icon{
+    height:20px;
+    width: 20px;
+}
+.previous-messages{
+    font-size:large;
+    color: #060677;
+
+}
+.rpress-admin-box-inside {
+    position: relative;
+}
+
+.download-zip{
+    position: absolute;
+    bottom: 10px; /* Adjust the distance from the bottom as needed */
+    right: 25px; /* Adjust the distance from the right as needed */
+}
+/* .previous-messages{
+    background-color: aqua;
+} */
